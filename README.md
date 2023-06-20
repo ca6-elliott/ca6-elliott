@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ca6-elliott
-- 👀 I’m interested in Web3, De-Fi, Smart Contracts, Python, Solidity, Plutus, Mist, Subline-text, ERC20, ERC720, Node.js
+- 👀 I’m interested in Web3, De-Fi, Smart Contracts, Python, Solidity, Haskell, Plutus, Mist, Subline-text, ERC20, ERC720, Node.js
 - 🌱 I’m currently learning more about Web3, De-Fi, Solidity, node.js, Ethereum Virtual Machine (EVM), Plutus  
 - 💞️ I’m looking to collaborate on Ethereum and/or Cardano smart contracts, as well as ERC20 & ERC720 projects  
 - 📫 How to reach me, Email: connor8elliott@tutanota.com, 
